@@ -15,7 +15,7 @@ const Explanation = styled.p`
     text-align: jsutify-content;
 `;
 
-function Article({date, explanation, mediaType}) {
+function Article({date, explanation}) {
     return (
         <div> 
             <div>
